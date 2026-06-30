@@ -1,0 +1,1 @@
+# Moduł źródłowy aplikacji ekonometrycznej.
