@@ -1,14 +1,13 @@
 # Dokumentacja Techniczno-Metodologiczna Projektu
 
 **Temat pracy:** „Aplikacja do ilościowej analizy danych giełdowych i estymacji trendów na podstawie modeli szeregów czasowych”  
-**Stos technologiczny:** Python 3, Streamlit, yfinance, Pandas, NumPy, Plotly, Statsmodels, Scikit-learn, Requests.  
-**Autor dokumentacji:** Antigravity (AI Coding Assistant & Econometric Analyst)
+
+
 
 ---
 
 ## 1. Architektura Systemu i Podział Modularny
 
-Aplikacja została zaprojektowana zgodnie z pryncypiami czystego kodu (**clean code**) oraz zasadą separacji obaw (**Separation of Concerns**). Podział na warstwy logiczne umożliwia łatwe rozbudowywanie kodu, a studentowi ułatwia dokumentację w rozdziale technicznym pracy dyplomowej.
 
 ```
 praca inzynierska/
