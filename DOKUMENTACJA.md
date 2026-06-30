@@ -24,7 +24,7 @@ praca inzynierska/
 
 ---
 
-## 2. Opis Funkcjonalny Modułów (Co? Jak? Dlaczego?)
+## 2. Opis Funkcjonalny Modułów 
 
 ### A. Pozyskiwanie danych i Autocomplete (`src/data_loader.py`)
 
@@ -90,7 +90,7 @@ Aplikacja Streamlit koordynuje przepływ danych i zapewnia ergonomiczne środowi
 
 ---
 
-## 3. Metodologia Ekonometryczna (Teoria do Pracy)
+## 3. Metodologia Ekonometryczna
 
 Aplikacja w pełni realizuje klasyczną **metodologię Boxa-Jenkinsa** modelowania szeregów czasowych:
 
